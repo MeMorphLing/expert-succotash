@@ -1,4 +1,4 @@
-# NLP Coursework — 22F-3177
+#  Tracing one continuous arc
 
 Four assignments from a Natural Language Processing course, tracing one continuous arc: **frequency counts → dense embeddings → sequential deep nets → transformers with explainability**. Each notebook is self-contained (dataset pull, preprocessing, modeling, evaluation) but they build on each other conceptually — this repo keeps them together because the comparisons only make sense read as a set.
 
